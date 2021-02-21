@@ -1,0 +1,13 @@
+1,Bursting Bubbles,Katie Peters
+3,Knowledge Bomb,Brian Thomas
+4,Blank Canvas,Jonthan Santiago
+6,Battleground,Brandi Watkins
+8,New Dimension,Kathy Christensen
+10,Rain Check,Adam Walker
+12,Zero Gravity,Adam Walker
+13,Crossing a Bridge,Flora Fox
+14,First Chance,Penny Owens
+15,Crowd Control,Marvin Powell
+16,Sleeping Dogs,Casey Potter
+17,Curiosity,Janie Stephens
+18,Special Delivery,Lucille Brooks
